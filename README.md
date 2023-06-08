@@ -3,7 +3,7 @@ Hiii <br>I'm Shipra and I'm a 2nd year IT engineering student
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shipra-suvarna) 
+[![LinkedIn](https://www.linkedin.com/in/shipra-suvarna-279b28237/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shiprasuvarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
