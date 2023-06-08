@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Shipra 
+#### I am a 2nd year IT engineering student 
+![I am a 2nd year IT engineering student ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**shiprasuvarna/shiprasuvarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in web development 
 
-Here are some ideas to get you started:
+Skills: HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
