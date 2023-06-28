@@ -2,8 +2,7 @@
 ![FYIBUDM37JA73H2J](https://github.com/shiprasuvarna/shiprasuvarna/assets/102012006/f375cd46-14c7-48aa-86ae-021f0635bb39)
 
 
-# 
-I'm a 2nd year IT engineering student.
+# I'm a 2nd year IT engineering student.
 
 
 ## 🌐 Socials:
