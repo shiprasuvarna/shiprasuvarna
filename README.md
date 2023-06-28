@@ -3,7 +3,7 @@
 
 
 # 💫 Hiiii:
- <br>I'm Shipra and I'm a 2nd year IT engineering student.
+I'm a 2nd year IT engineering student.
 
 
 ## 🌐 Socials:
