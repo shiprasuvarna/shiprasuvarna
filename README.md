@@ -1,10 +1,4 @@
 
-![FYIBUDM37JA73H2J](https://github.com/shiprasuvarna/shiprasuvarna/assets/102012006/f375cd46-14c7-48aa-86ae-021f0635bb39)
-
-
-# I'm a 2nd year IT engineering student.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shipra-suvarna-279b28237/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=pink)](https://instagram.com/_shipraa_?igshid=MzNlNGNkZWQ4Mg==)
