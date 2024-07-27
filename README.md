@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shipra-suvarna-279b28237/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=pink)](https://instagram.com/_shipraa_?igshid=MzNlNGNkZWQ4Mg==)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=pink)](https://instagram.com/shipraasuvarna?igshid=MzNlNGNkZWQ4Mg==)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shiprasuvarna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
